@@ -1,0 +1,2 @@
+Welcome to the Rainbow Six 3 community server!
+Edit state\motd.txt to change this message.
